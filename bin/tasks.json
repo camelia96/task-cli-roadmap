@@ -1,0 +1,37 @@
+[
+  {
+    "id": 3,
+    "description": "Regar las plantas",
+    "status": "in-progress",
+    "createdAt": "2024-09-26T14:04:23.239Z",
+    "updatedAt": "2024-09-26T16:57:34.391Z"
+  },
+  {
+    "id": 8,
+    "description": "Fregar los platos",
+    "status": "done",
+    "createdAt": "2024-09-26T14:04:27.825Z",
+    "updatedAt": "2024-09-26T17:37:58.913Z"
+  },
+  {
+    "id": 6,
+    "description": "Watch TV",
+    "status": "todo",
+    "createdAt": "2024-09-26T18:34:17.124Z",
+    "updatedAt": "2024-09-26T18:34:17.124Z"
+  },
+  {
+    "id": 7,
+    "description": "Take care of garden",
+    "status": "todo",
+    "createdAt": "2024-09-26T18:36:04.285Z",
+    "updatedAt": "2024-09-26T18:36:04.285Z"
+  },
+  {
+    "id": 9,
+    "description": "Clean kitchen",
+    "status": "todo",
+    "createdAt": "2024-09-26T18:36:31.730Z",
+    "updatedAt": "2024-09-26T18:36:31.730Z"
+  }
+]
